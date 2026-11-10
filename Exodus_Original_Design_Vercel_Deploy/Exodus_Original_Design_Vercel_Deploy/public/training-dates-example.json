@@ -1,0 +1,14 @@
+{
+  "sessions": [
+    {
+      "id": "example-1",
+      "course": "Standard First Aid & CPR/AED",
+      "date": "2027-01-16",
+      "time": "9:00 AM \u2013 5:00 PM",
+      "location": "Ontario \u2014 confirm venue",
+      "seats": 12,
+      "status": "Registration inquiries open",
+      "published": false
+    }
+  ]
+}
