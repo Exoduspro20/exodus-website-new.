@@ -1,0 +1,7 @@
+FIRST AID BOOKING SETUP
+1. In Calendly, find your Exodus – Emergency First Aid & CPR/AED Training GROUP event and click Copy link.
+2. Open public/first-aid-booking.js. Paste the FULL copied URL inside the empty quotes for EXODUS_FIRST_AID_CALENDLY_URL.
+3. Deploy the complete folder to Vercel as before.
+4. Visit /red-cross.html and click SELECT TRAINING DATE & REGISTER. Test a booking and confirmation email.
+
+This version does not collect government IDs, issue certificates, or claim instructor approval. It keeps the existing security training pages and backend files unchanged. The former Supabase-based request form was removed from the public First Aid page to avoid an unreliable parallel registration flow.
